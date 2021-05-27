@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\bin\Debug\net5.0\DigitalInovattionExemplo.exe
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\bin\Debug\net5.0\DigitalInovattionExemplo.deps.json
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\bin\Debug\net5.0\DigitalInovattionExemplo.runtimeconfig.json
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\bin\Debug\net5.0\DigitalInovattionExemplo.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\bin\Debug\net5.0\DigitalInovattionExemplo.dll
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\bin\Debug\net5.0\ref\DigitalInovattionExemplo.dll
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\bin\Debug\net5.0\DigitalInovattionExemplo.pdb
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.dll
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\ref\DigitalInovattionExemplo.dll
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.pdb
+C:\Users\Acer\Desktop\C#\DigitalInovattionExemplo\obj\Debug\net5.0\DigitalInovattionExemplo.genruntimeconfig.cache
